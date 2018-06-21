@@ -1332,7 +1332,7 @@
 (^|\.)ec2-54-210-54-246\.computer-1\.amazonaws\.com$
 (^|\.)raw\.githubusercontent\.com$
 (^|\.)blog\.reimu\.net$
-(^|\.)acg\.is%
+(^|\.)acg\.is$
 
 #GFWList IP start
 85.17.73.31
