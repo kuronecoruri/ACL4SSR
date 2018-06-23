@@ -1333,6 +1333,7 @@
 (^|\.)raw\.githubusercontent\.com$
 (^|\.)blog\.reimu\.net$
 (^|\.)acg\.is$
+(^|\.)exhentai\.org$
 
 #GFWList IP start
 85.17.73.31
