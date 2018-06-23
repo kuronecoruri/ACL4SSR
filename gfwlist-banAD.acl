@@ -1334,6 +1334,7 @@
 (^|\.)blog\.reimu\.net$
 (^|\.)acg\.is$
 (^|\.)exhentai\.org$
+(^|\.)\w*wikipedia\w*\.\w*$
 
 #GFWList IP start
 85.17.73.31
