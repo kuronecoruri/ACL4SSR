@@ -1335,6 +1335,7 @@
 (^|\.)acg\.is$
 (^|\.)exhentai\.org$
 (^|\.)\w*wikipedia\w*\.\w*$
+(^|\.)fantia\.jp$
 (^|\.)\w*sankakucomplex\.com\w*\.\w*$
 (^|\.)gumroad\.com$
 
