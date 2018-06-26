@@ -1336,7 +1336,7 @@
 (^|\.)exhentai\.org$
 (^|\.)\w*wikipedia\w*\.\w*$
 (^|\.)fantia\.jp$
-(^|\.)\w*sankakucomplex\.com\w*\.\w*$
+(^|\.)\w*sankakucomplex\w*\.\w*$
 (^|\.)gumroad\.com$
 
 #GFWList IP start
