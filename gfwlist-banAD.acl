@@ -1335,6 +1335,8 @@
 (^|\.)acg\.is$
 (^|\.)exhentai\.org$
 (^|\.)\w*wikipedia\w*\.\w*$
+(^|\.)\w*sankakucomplex\.com\w*\.\w*$
+(^|\.)gumroad\.com$
 
 #GFWList IP start
 85.17.73.31
