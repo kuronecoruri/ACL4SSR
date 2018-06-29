@@ -1333,6 +1333,7 @@
 (^|\.)raw\.githubusercontent\.com$
 (^|\.)blog\.reimu\.net$
 (^|\.)acg\.is$
+(^|\.)e-hentai\.org$
 (^|\.)exhentai\.org$
 (^|\.)\w*wikipedia\w*\.\w*$
 (^|\.)fantia\.jp$
