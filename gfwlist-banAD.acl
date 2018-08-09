@@ -1339,7 +1339,7 @@
 (^|\.)fantia\.jp$
 (^|\.)\w*sankakucomplex\w*\.\w*$
 (^|\.)gumroad\.com$
-(^|\.)\w*goo\.ne\.jp\w*\.\w*$
+(^|\.)\w*goo\w*\.\w*$
 (^|\.)\w*github\w*\.\w*$
 
 
