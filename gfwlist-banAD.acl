@@ -1339,6 +1339,9 @@
 (^|\.)fantia\.jp$
 (^|\.)\w*sankakucomplex\w*\.\w*$
 (^|\.)gumroad\.com$
+(^|\.)\w*goo\.ne\.jp\w*\.\w*$
+(^|\.)\w*github\w*\.\w*$
+
 
 #GFWList IP start
 85.17.73.31
